@@ -6,7 +6,7 @@ Here is the repo with KiCAD projects with prototyping PCB for Flipper Zero.
 
 **It was designed after lockup of Flipper Zero GPIO pinout, so has actual compatibility, but not supported officially for now.**
 
-**Please use official [external module guidelines](https://docs.flipperzero.one/ru/development/ext-modules) for new developments.**
+**Please use official [external module guidelines](https://docs.flipper.net/development/hardware/modules-blueprints) for new developments.**
 
 **Unofficial KiCAD FlipperZero component can be found [here](https://bitbucket.org/lomalkin/lomalkin_kicad_libs/src/master/lomalkin_kicad_footprints.pretty/FlipperZero.kicad_mod).**
 
